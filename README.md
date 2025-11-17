@@ -2,16 +2,16 @@
 
 <br>
 
-<p align="justify">
 
 ### ✅ <b> Course Description </b>
 
 <b> Welcome to the Probability and Statistics course! </b>
 
-This course provides an elementary introduction to probability and statistics with applications. In this course, you will be introduced to data sets, Chebyshev’s inequality, and descriptive statistics. You will learn about the axioms of probability, Bayes’ formula, random variables, mathematical expectations, and types of distribution and coverage of estimation with confidence intervals. You will also be introduced to hypothesis testing. After completing this course, you will be able to use probability and statistics effectively and apply the concepts and methods learned to real-world problems. 
+<p align="justify"> This course provides an elementary introduction to probability and statistics with applications. In this course, you will be introduced to data sets, Chebyshev’s inequality, and descriptive statistics. You will learn about the axioms of probability, Bayes’ formula, random variables, mathematical expectations, and types of distribution and coverage of estimation with confidence intervals. You will also be introduced to hypothesis testing. After completing this course, you will be able to use probability and statistics effectively and apply the concepts and methods learned to real-world problems. </p>
 
 ### ✅ <b> Course Learning Objectives </b>
 
+<p align="justify">
 After completing this course, you will be able to:
 
 - Explain the statistical summary of the dataset and the probability concepts, such as conditional probability and Bayes’s formula.
@@ -21,11 +21,11 @@ After completing this course, you will be able to:
 
 <br>
 
-<p align="justify">
+
 
 ✅ <b> Faculty Introduction 1 </b>
 
-<b> Hello all. Myself, </b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
+<p align="justify"> Hello all. Myself, <b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
 division, Bits Pilani. I did my MSE Applied mathematics from Sri Venkateshra University of Tirupati and MSC statistics from Usmani
 University, Hyderabad. I did my PhD from Usmana University, Hyderabad in the area of mathematical modeling. I'm having 25+ years of teaching experience
 at various engineering colleges. I have been. Teaching at Bits Pani since 2012. </p>
@@ -33,14 +33,12 @@ at various engineering colleges. I have been. Teaching at Bits Pani since 2012. 
 ✅ <b> Faculty Introduction 2 </b>
 
 
-Hi, this is <b> Venkatatna Koda </b>. Working as an associate professor in the department of mathematics. At Birla Institute of Technology and Science,
+<p align="justify"> Hi, this is <b> Venkatatna Koda </b>. Working as an associate professor in the department of mathematics. At Birla Institute of Technology and Science,
 Pilani at Hyderabad campus. I associated with Vianni from 2009. I contributed To the institute in various levels, that is in teaching. Research
 and institutional activities for the past 14 years. I received my master's degree in mathematics from Jharlal Nehru Technological University,
 Hyderabad, India, and. My Doctor of Philosophy, that is copyhD from the same institute. My research areas include mathematical modeling,
 nonlinear optimization, and neural networks. I published various research articles in international journals that are connected with the concepts call as
-mathematical modeling, nonlinear optimization, and neural networks. All these are connected with dynamical systems. Thank you.
-
-</p>
+mathematical modeling, nonlinear optimization, and neural networks. All these are connected with dynamical systems. Thank you. </p>
 
 <br>
 
