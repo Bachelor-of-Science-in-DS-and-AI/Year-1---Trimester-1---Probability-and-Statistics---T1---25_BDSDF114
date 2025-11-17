@@ -1,1 +1,1 @@
-# Year-1---Trimester-1---Probability-and-Statistics---T1---25_BDSDF114
+# Probability and Statistics - T1_25_BDSDF114
