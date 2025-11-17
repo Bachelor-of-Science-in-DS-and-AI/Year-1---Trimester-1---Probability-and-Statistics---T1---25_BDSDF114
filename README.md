@@ -5,7 +5,7 @@
 
 #### ✅ <b> Course Description </b>
 
-<b> Welcome to the Probability and Statistics course! </b>
+#### <b> Welcome to the Probability and Statistics course! </b>
 
 <p align="justify"> This course provides an elementary introduction to probability and statistics with applications. In this course, you will be introduced to data sets, Chebyshev’s inequality, and descriptive statistics. You will learn about the axioms of probability, Bayes’ formula, random variables, mathematical expectations, and types of distribution and coverage of estimation with confidence intervals. You will also be introduced to hypothesis testing. After completing this course, you will be able to use probability and statistics effectively and apply the concepts and methods learned to real-world problems. </p>
 
