@@ -4,13 +4,13 @@
 
 <p align="justify">
 
-✅ <b> Course Description </b>
+### ✅ <b> Course Description </b>
 
 <b> Welcome to the Probability and Statistics course! </b>
 
 This course provides an elementary introduction to probability and statistics with applications. In this course, you will be introduced to data sets, Chebyshev’s inequality, and descriptive statistics. You will learn about the axioms of probability, Bayes’ formula, random variables, mathematical expectations, and types of distribution and coverage of estimation with confidence intervals. You will also be introduced to hypothesis testing. After completing this course, you will be able to use probability and statistics effectively and apply the concepts and methods learned to real-world problems. 
 
-✅ <b> Course Learning Objectives </b>
+### ✅ <b> Course Learning Objectives </b>
 
 After completing this course, you will be able to:
 
@@ -25,7 +25,7 @@ After completing this course, you will be able to:
 
 ✅ <b> Faculty Introduction 1 </b>
 
-<b> Hello all. Myself, <b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
+<b> Hello all. Myself, </b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
 division, Bits Pilani. I did my MSE Applied mathematics from Sri Venkateshra University of Tirupati and MSC statistics from Usmani
 University, Hyderabad. I did my PhD from Usmana University, Hyderabad in the area of mathematical modeling. I'm having 25+ years of teaching experience
 at various engineering colleges. I have been. Teaching at Bits Pani since 2012. </p>
