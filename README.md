@@ -57,10 +57,10 @@ mathematical modeling, nonlinear optimization, and neural networks. All these ar
 | | Video 2: Chebyshev’s Inequality | Week 1.2: Practice Quiz – Chebyshev’s Inequality | 
 | | Video 3: Normal Data Set and Skewness of Data | Week 1.2: Practice Quiz – Normal Data Set and Skewness of Data | 
 | | Video 4: Two Quantitative Variables on Scatter Plot | Week 1.2: Practice Quiz – Two Quantitative Variables on Scatter Plot | 
-|  W1: Discussion Prompt | | | | 
 | | **Reading:** Understanding the Data |  |  |
 | **Lab** | Lesson 1 (Videos 2 & 3) | |
 |  | Scatter Plots | |
+|  W1: Discussion Prompt | | | | 
 | **Live Session** | **Sep 20, 2025 07:30 PM India** | |
 
 
