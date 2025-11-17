@@ -274,7 +274,7 @@ After completing this course, you will be able to:
 | | Video 2: Chi-Square Test | Week 11.2: Practice Quiz – Testing of Hypothesis: Chi-Square Test | 
 | | Video 4: Testing of Hypothesis: Several Proportions—Example 1 | Week 11.2: Practice Quiz – Testing of Hypothesis: Several Proportions—Example 1 | 
 | | Video 5: Testing of Hypothesis: Several Proportions—Example 2 | Week 11.2: Practice Quiz – Testing of Hypothesis: Several Proportions—Example 2 | 
-| | Video 6: esting of Hypothesis: Several Proportions—Example 3 | Week 11.2: Practice Quiz – esting of Hypothesis: Several Proportions—Example 3 | 
+| | Video 6: Testing of Hypothesis: Several Proportions—Example 3 | Week 11.2: Practice Quiz – esting of Hypothesis: Several Proportions—Example 3 | 
 | |  **Reading:** Testing of Hypothesis: Several Proportions |  |  |
 | **Lesson 3: Testing of Hypothesis: All Models** |  **Video 1: Testing of Hypothesis: Example 4** | Week 11.3: Practice Quiz – Testing of Hypothesis: Example 4 |  
 | | Video 2: Testing of Hypothesis: Example 5 | Week 11.3: Practice Quiz – Testing of Hypothesis: Example 5 |
