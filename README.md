@@ -93,7 +93,7 @@ After completing this course, you will be able to:
 
 <br><br>
 
-#### ✅ Week 4: Bayes theorem and Applications
+#### ✅ Week 4: Bayes Theorem and Applications
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
