@@ -75,203 +75,222 @@ mathematical modeling, nonlinear optimization, and neural networks. All these ar
 | **Lesson 1: Statistical Summary** | **Video 1: Quartile Deviation and IQR** | Week 2.1: Practice Quiz – Quartile Deviation and IQR | 
 | | Video 2: Five point summary | Week 2.1: Practice Quiz – Five point summary  | 
 | | Video 3: Box plot | Week 2.1: Practice Quiz – Box plot| 
-| | Video 3: Outlier detection | Week 2.1: Practice Quiz – Outlier detection| 
-| | Video 3: Statistical Summary | Week 2.1: Practice Quiz – Statistical Summary| 
+| | Video 4: Outlier detection | Week 2.1: Practice Quiz – Outlier detection| 
+| | Video 5: Statistical Summary | Week 2.1: Practice Quiz – Statistical Summary| 
 | **Lab** | P&S: Module 1 | | | 
 |  W2: Discussion Prompt | | | | 
 | **Live Session** | **Sep 27, 2025 07:40 PM India** | |
 
 <br><br>
 
-#### ✅ Week 3: Python Basics
+#### ✅ Week 3: Elements of Probability
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Elements of a Python Program** | **Video 1: Module Introduction** |  | 
-| | Video 2: Programming Constructs in python | Week 3.1: Practice Quiz – Programming Constructs in Python | 
-| | Video 3: Variables and Constants | Week 3.1: Practice Quiz – Variables and Constants | 
-| | Video 4: Sentences in Python | Week 3.1: Practice Quiz – Sentences in Python | 
-| | **Reading:** Basic Elements of a Python Program|  |  |
-| **Lesson 2: Operators and Expressions** | **Video 1: Numeric Expressions** | Week 3.2: Practice Quiz – Numeric Expressions | 
-| | Video 2: Data Types in Python | Week 3.2: Practice Quiz – Data Types in Python | 
-| | Video 3: Type Conversions 1 | Week 3.2: Practice Quiz – Type Conversions 1 |
-| | Video 4: Type Conversions 2 | Week 3.2: Practice Quiz – Type Conversions 2 |
-| | Video 5: Comments in Python | Week 3.2: Practice Quiz – Comments in Python |
-| | Video 5: Escape Characters | Week 3.2: Practice Quiz – Escape Characters |
-| |  **Reading:** Numeric Expressions and Type Conversions |  |  |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Introduction to Probability** | **Video 1: Basics of Probability** | Week 3.1: Practice Quiz – Basics of Probability  | 
+| | Video 2: Basics of Set Theory | Week 3.1: Practice Quiz – Basics of Set Theory | 
+| | **Reading:** Introduction to Probability|  |  |
+| **Lesson 2: Axioms of Probability and Sample Spaces Having Equally Likely Outcomes** | **Video 1: Axioms of Probability** | Week 3.2: Practice Quiz – Axioms of Probability | 
+| | Video 2: Probabilities of Equally Likely Outcomes | Week 3.2: Practice Quiz – Probabilities of Equally Likely Outcomes | 
+| | Video 3: Principle of Counting | Week 3.2: Practice Quiz – Principle of Counting |
+| | Video 4: Principle of Counting: Example 1 | Week 3.2: Practice Quiz – Principle of Counting: Example 1 |
+| | Video 5: Principle of Counting: Example 2 | Week 3.2: Practice Quiz – Principle of Counting: Example 2 |
+| |  **Reading:** Axioms of Probability and Sample Spaces Having Equally Likely Outcomes |  |  |
+| **Lab** | Basics of Probability | | |
 |  W3: Discussion Prompt | | | | 
-| **Live Session** | **Oct 4, 2025 06:30 PM India** | |
+| **Live Session** | **Oct 4, 2025 07:40 PM India** | |
 
 
 <br><br>
 
-#### ✅ Week 4: Conditional Statements and Error Handling
+#### ✅ Week 4: Bayes theorem and Applications
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Conditional Statements** | **Video 1: Module Introduction** |  | 
-| | Video 2: Boolean Expressions | Week 4.1: Practice Quiz – Boolean Expressions | 
-| | Video 3: One-way Decisions |  | 
-| | Video 4: Nested Two-Way Decisions | | 
-| | Video 5: Multi-Way Decisions | Week 4.1: Practice Quiz – Multi-Way Decisions | 
-| | Video 4: Conditionals Example 1 | | 
-| | Video 5: Short-Circuiting | | 
-| | **Reading:** Conditional Statements in Python|  |  |
-| **Lesson 2: Error Handling** | **Video 1: Errors Revisited with Examples** | Week 4.2: Practice Quiz – Errors Revisited with Examples | 
-| | Video 2: The Try/Except Structure | Week 4.2: Practice Quiz – The Try/Except Structure | 
-| | Video 3: Error Handling Example | Week 4.2: Practice Quiz – Error Handling Example |
-| |  **Reading:** Error Handling in Python |  |  |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Bayes Theorem** | **Video 1: Conditional Probability** | Week 4.1: Practice Quiz – Conditional Probability | 
+| | Video 2: Conditional Probability: Example | Week 4.1: Practice Quiz – Conditional Probability: Example | 
+| | Video 3: Bayes’ Formula | Week 4.1: Practice Quiz – Bayes’ Formula  | 
+| | Video 4: Bayes’ Formula: Examples | Week 4.1: Practice Quiz – Bayes’ Formula: Examples | 
+| | Video 5: Independent Events | Week 4.1: Practice Quiz – Independent Events | 
+| | Video 6: Independent Events: Example | Week 4.1: Practice Quiz – Independent Events: Example  | 
+| | **Reading:** Bayes Theorm|  |  |
+| **Lesson 2: Applications of Bayes theorem** | **Video 1: Bayes theorem with Naive Condition** | Week 4.2: Practice Quiz – Bayes theorem with Naive Condition | 
+| | Video 2: Naïve Bayes theorem - Classification | Week 4.2: Practice Quiz – Naïve Bayes theorem - Classification | 
+| | Video 3: Naïve Bayes theorem - Text Classification | Week 4.2: Practice Quiz – Naïve Bayes theorem - Text Classification |
+| | Video 4: Naïve Bayes theorem - Text Classification - Example | Week 4.2: Practice Quiz – Naïve Bayes theorem - Text Classification - Example |
+| **Lab** | Conditional Probability and Bayes Theorm | | |
 |  W4: Discussion Prompt | | | | 
-| **Live Session** | **Oct 11, 2025 06:30 PM India** | |
+| **Live Session** | **Oct 11, 2025 07:40 PM India** | |
 
 <br><br>
 
 
-#### ✅ Week 5: Iterative Statements
+#### ✅ Week 5: Random Variables
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Basic Loops** | **Video 1: Module Introduction** |  | 
-| | Video 2: while loop | Week 5.1: Practice Quiz – while loop | 
-| | Video 3: break, continue and pass | Week 5.1: Practice Quiz – break, continue and pass | 
-| | Video 4: while loop Examples | Week 5.1: Practice Quiz – while loop Examples | 
-| | **Reading:** Basics of Looping in Python|  |  |
-| **Lesson 2: Definitive Loops** | **Video 1: for loop** |  | 
-| | Video 2: loop patterns 1 | | 
-| | Video 3: loop patterns 2 | |
-| | Video 4: Pattern Printing 1 |  |
-| | Video 5: Pattern Printing 2 |  |
-| |  **Reading:** Definitive Loops in Python |  |  |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Random Variables** | **Video 1: Random Variable: Definition** |  | 
+| | Video 2: Random Variable: Examples | Week 5.1: Practice Quiz – Random Variable: Examples | 
+| | Video 3: Random Variable: Types | Week 5.1: Practice Quiz – Random Variable: Types | 
+| | Video 4: Probability Distribution Function | Week 5.1: Practice Quiz – Probability Distribution Function | 
+| | Video 5: Probability Distribution Function: Examples | Week 5.1: Practice Quiz – Probability Distribution Function: Examples |
+| | **Reading:** Random Variable|  |  |
+| **Lesson 2: Discrete Random Variable** | **Video 1: Mean of a Discrete Random Variable** | Week 5.2: Practice Quiz – Mean of a Discrete Random Variable | 
+| | Video 2: Variance and Standard Deviation of Discrete Random Variable |Week 5.2: Practice Quiz – Variance and Standard Deviation of Discrete Random Variable | 
+| | Video 3: Mean and Variance: Example 1 |Week 5.2: Practice Quiz – Mean and Variance: Example 1|
+| | Video 4: Mean and Variance: Example 2 | Week 5.2: Practice Quiz – Mean and Variance: Example 2 |
+| | Video 5: Mean and Variance: Example 3 | Week 5.2: Practice Quiz – Mean and Variance: Example 3 |
+| **Lesson 3: Continuous Random Variable** | **Video 1: Probability Density Function** | Week 5.3: Practice Quiz – Probability Density Function | 
+| | Video 2: Probability Density Function: Examples |Week 5.2: Practice Quiz – Probability Density Function: Examples | 
+| | Video 3: Mean and Standard Deviation of a Continuous Random Variable |Week 5.3: Practice Quiz – Mean and Standard Deviation of a Continuous Random Variable|
+| | Video 4: Continuous Random Variables: Examples | Week 5.3: Practice Quiz – Continuous Random Variables: Examples |
+| | **Reading:** Continous Random Variable|  |  |
+| **Lab** | Random Variables | | |
 |  W5: Discussion Prompt | | | | 
-| **Live Session** | **Oct 25, 2025 06:30 PM India** | |
+| **Live Session** | **Oct 18, 2025 07:40 PM India** | |
 
 <br><br>
 
-#### ✅ Week 6: Functions
+#### ✅ Week 6: Discrete Probability Distributions
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Basic Functions** | **Video 1: Module Introduction** |  | 
-| | Video 2: Functions in Python | Week 6.1: Practice Quiz – Functions in Python | 
-| | Video 3: datetime library | Week 6.1: Practice Quiz – datetime library | 
-| | Video 4: math library | Week 6.1: Practice Quiz – math library | 
-| | Video 5: random library | Week 6.1: Practice Quiz – random library | 
-| | **Reading:** Python Functions|  |  |
-| **Lesson 2: Building Files** | **Video 1: Building Our Own Functions** | Week 6.2: Practice Quiz – Building Our Own Functions | 
-| | Video 2: Arguments, Parameters and return Values | Week 6.2: Practice Quiz – Arguments, Parameters and return Values | 
-| | Video 3: Scope and Lifetime of Variables | Week 6.2: Practice Quiz – Scope and Lifetime of Variables |
-| | Video 4: When to Use Functions? | Week 6.2: Practice Quiz – When to Use Functions? |
-| | Video 5: Function Examples | Week 6.2: Practice Quiz – Function Examples |
-| |  **Reading:** User-defined Functions |  |  |
-| **Lesson 3: More Functions** | **Video 1: Decorators in Python** | Week 6.3: Practice Quiz – Decorators in Python |
-| | Video 2: Recursive Functions | Week 6.3: Practice Quiz – Recursive Functions |
-| | Video 3: Lambda Functions | Week 6.3: Practice Quiz – Lambda Functions |
-| | Video 4: Measuring Executive Time of Python Programs | Week 6.3: Practice Quiz – Measuring Executive Time of Python Programs |
-| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Binomial Distribution** | **Video 1: Binomial distribution** |Week 6.1: Practice Quiz – Binomial distribution | 
+| | Video 2: Properties of Binomial distribution | Week 6.1: Practice Quiz – Properties of Binomial distribution | 
+| | Video 3: Mean of Binomial Distribution | Week 6.1: Practice Quiz – Mean of Binomial Distribution | 
+| | Video 4: Variance of Binomial Distribution | Week 6.1: Practice Quiz – Variance of Binomial Distribution | 
+| | Video 5: Binomial Distribution: Example 1 | Week 6.1: Practice Quiz – Binomial Distribution: Example 1 | 
+| | Video 6: Binomial Distribution: Example 2 | Week 6.1: Practice Quiz – Binomial Distribution: Example 2| 
+| | **Reading:** Binomial Distribution|  |  |
+| **Lesson 2: Poisson Distribution** | **Video 1: Poisson Distribution: Definition** | Week 6.2: Practice Quiz – Poisson Distribution: Definition | 
+| | Video 2: Poisson Distribution: Properties | Week 6.2: Practice Quiz – Poisson Distribution: Properties | 
+| | Video 3: Mean of Poisson Distribution | Week 6.2: Practice Quiz – Mean of Poisson Distribution |
+| | Video 4: Variance of Poisson Distribution | Week 6.2: Practice Quiz – Variance of Poisson Distribution |
+| | Video 5: Relation Between Binomial and Poisson Distributions | Week 6.2: Practice Quiz – Relation Between Binomial and Poisson Distributions |
+| |  **Reading:** Poisson Distribution |  |  |
+| **Lesson 3: Summary and Assessment** | **Video 1: Discrete Probability Distributions** | Week 6.3: Practice Quiz – Discrete Probability Distributions |
 |  W6: Discussion Prompt | | | | 
-| **Live Session** | **Oct 18, 2025 06:30 PM India** | |
+| **Lab** | Discrete Probability Distributions | | |
+| **Live Session** | **Oct 25, 2025 07:40 PM India** | |
 
 
 <br><br>
 
-#### ✅ Week 7: Strings and Files
+#### ✅ Week 7: Continuous Probability Distributions
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Strings** | **Video 1: Module Introduction** |  | 
-| | Video 2: Strings in Python | Week 7.1: Practice Quiz – Strings in Python | 
-| | Video 3: String Operations in Python 1 | Week 7.1: Practice Quiz – String Operations in Python 1 | 
-| | Video 4: String Operations in Python 2 | Week 7.1: Practice Quiz – String Operations in Python 2 | 
-| | Video 5: String Library 1 | Week 7.1: Practice Quiz – String Library 1 | 
-| | Video 6: String Library 2 | Week 7.1: Practice Quiz – String Library 2 | 
-| | **Reading:** Python Strings|  |  |
-| **Lesson 2: Files** | **Video 1: Files in Python** | Week 7.2: Practice Quiz – Files in Python | 
-| | Video 2: File Operations 1 | Week 7.2: Practice Quiz – File Operations 1 | 
-| | Video 3: File Operations 2 | Week 7.2: Practice Quiz – File Operations 2 |
-| | Video 4: Strings and Files: Examples 1 | Week 7.2: Practice Quiz – Strings and Files: Examples 1 |
-| |  **Reading:** Python Files |  |  |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Normal Distribution** | **Video 1: Probability Density Function** | Week 7.1: Practice Quiz – Probability Density Function  | 
+| | Video 2: Normal Distribution | Week 7.1: Practice Quiz – Normal Distribution | 
+| | Video 3: Standard Normal Distribution and Normal Curve | Week 7.1: Practice Quiz – Standard Normal Distribution and Normal Curve | 
+| | Video 4: Normal Distribution Table | Week 7.1: Practice Quiz – Normal Distribution Table | 
+| | Video 5: Normal Distribution: Example 1 | Week 7.1: Practice Quiz – Normal Distribution: Example 1 | 
+| | Video 6: Normal Distribution: Example 2 | Week 7.1: Practice Quiz – Normal Distribution: Example 2 | 
+| | Video 7: Normal Distribution: Example 3 | Week 7.1: Practice Quiz – Normal Distribution: Example 3 |
+| | **Reading:** Normal Distribution|  |  |
+| **Lesson 2: Properties of Normal distribution** | **Video 1: Mean of Normal Distribution** | Week 7.2: Practice Quiz – Mean of Normal Distribution | 
+| | Video 2: Variance of Normal Distribution | Week 7.2: Practice Quiz – Variance of Normal Distribution | 
+| | Video 3: Gaussian Mixtures | Week 7.2: Practice Quiz – Gaussian Mixtures |
+| |  **Reading:** Properties of Normal distribution |  |  |
+| **Lesson 3: Summary and Assessment** | **Reading:** Properties of Normal distribution | |
 |  W7: Discussion Prompt | | | | 
-| **Live Session** | **Nov 1, 2025 06:30 PM India** | |
+| **Lab** | Continous Probability | | |
+| | Gaussian Mixture | | |
+| **Live Session** | **Nov 1, 2025 07:40 PM India** | |
 
 <br><br>
 
-#### ✅ Week 8: Lists and Sets
+#### ✅ Week 8: Joint Probability Distributions
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Lists** | **Video 1: Module Introduction** |  | 
-| | Video 2: Data Structures in Python | Week 8.1: Practice Quiz – Data Structures in Python | 
-| | Video 3: Lists in Python | Week 8.1: Practice Quiz – Lists in Python | 
-| | Video 4: List Operations 1 | Week 8.1: Practice Quiz – List Operations 1 | 
-| | Video 5: List Operations 2 | Week 8.1: Practice Quiz – List Operations 2 | 
-| | Video 6: Lists and Strings | Week 8.1: Practice Quiz – Lists and Strings | 
-| | Video 7: Lists Comprehension | Week 8.1: Practice Quiz – List Comprehension | 
-| | Video 8: Map and Filter in Python | Week 8.1: Practice Quiz – Map & Filter | 
-| | **Reading:** Python Lists|  |  |
-| **Lesson 2: Sets** | **Video 1: Sets in Python** | Week 8.2: Practice Quiz – Sets in Python | 
-| | Video 2: Set Operations | Week 8.2: Practice Quiz – Set Operations | 
-| |  **Reading:** Python Sets |  |  |
-| **Lesson 3: Lists and Sets – Examples** | **Video 1: Example 1** | Week 8.3: Practice Quiz – Example 1 | 
-| | Video 2: Example 2 | Week 8.3: Practice Quiz – Example 2 | 
-| | Video 3: Example 3 | Week 8.3: Practice Quiz – Example 3 | 
-| **Week 8.3 Lab** | Questions & Solutions |  |  |
-| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Joint Probability Distributions(Discrete)** | **Video 1: Joint probability distribution function** | Week 8.1: Practice Quiz – Joint probability distribution function  | 
+| | Video 2: Marginal probability distribution functions | Week 8.1: Practice Quiz – Marginal probability distribution functions | 
+| | Video 3: Independent Random Variables - Discrete | Week 8.1: Practice Quiz – Independent Random Variables - Discrete | 
+| | Video 4: Example | Week 8.1: Practice Quiz – Example | 
+| **Lesson 2: Joint Probability Distributions(Continuous)** | **Video 1: Joint probability density function** | Week 8.2: Practice Quiz – Joint probability density function | 
+| | Video 2: Marginal probability density functions | Week 8.2: Practice Quiz – Marginal probability density functions | 
+| | Video 3: Independent random variables - Continuous | Week 8.2: Practice Quiz – Independent random variables - Continuous | 
+| | Video 4: Example 1 | Week 8.2: Practice Quiz – Example 1 | 
+| **Lesson 3: Summary and Assessment** | **Reading:** Both Discrete and Continous Cases | |
 |  W8: Discussion Prompt | | | | 
-| **Live Session** | **Nov 8, 2025 06:30 PM India** | |
+| **Lab** | Joint Probability Distributions(Discrete) |  |  |
+| | Joint Probability Distributions(Continous) |  |  |
+| **Live Session** | **Nov 8, 2025 07:40 PM India** | |
 
 <br><br>
 
-#### ✅ Week 9: Dictionaries and Tuples
+#### ✅ Week 9: Sampling and Estimation
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Dictionaries** | **Video 1: Module Introduction** |  | 
-| | Video 2: Collections in Python | Week 9.1: Practice Quiz – Collections in Python | 
-| | Video 3: Dictionaries in Python | Week 9.1: Practice Quiz – Dictionaries in Python | 
-| | Video 4: Dictionary for Counting | Week 9.1: Practice Quiz – Dictionary for Counting | 
-| | Video 5: Counting Words in a Text | Week 9.1: Practice Quiz – Counting Words in a Text | 
-| | Video 6: Definitive Loops and Dictionaries | Week 9.1: Practice Quiz – Definitive Loops and Dictionaries | 
-| | Video 7: Dictionary Comprehension | Week 9.1: Practice Quiz – Dictionary Comprehension | 
-| | Video 8: Dictionaries: Example | Week 9.1: Practice Quiz – Dictionaries: Example | 
-| | **Reading:** Python Dictionaries|  |  |
+| **Lesson 1: Sampling** | **Video 1: Introduction to Sampling** | Week 9.1: Practice Quiz – Introduction to Sampling | 
+| | Video 2: Populations and Samples | Week 9.1: Practice Quiz – Populations and Samples | 
+| | Video 3: Types of Sampling | Week 9.1: Practice Quiz – Types of Sampling | 
+| | Video 4: Sampling Distribution | Week 9.1: Practice Quiz – Sampling Distribution | 
+| | Video 5: Central Limit Theorem | Week 9.1: Practice Quiz – Central Limit Theorem | 
+| | Video 6: Sampling Distribution: t-Distribution | Week 9.1: Practice Quiz – Sampling Distribution: t-Distribution | 
+| | Video 7: Sampling Distribution: Chi-Square Distribution | Week 9.1: Practice Quiz – Sampling Distribution: Chi-Square Distribution | 
+| | **Reading:** Sampling|  |  |
 | **Week 9.1 Lab** | Questions & Solutions |  |  |
-| **Lesson 2: Tuples** | **Video 1: Tuples in Python** | Week 9.2: Practice Quiz – Tuples in Python | 
-| | Video 2: Tuple Operations | Week 9.2: Practice Quiz – Tuple Operations | 
-| |  **Reading:** Python Tuples |  |  |
-| **Week 9.2 Lab** | Questions & Solutions |  |  |
-| **Lesson 3: Examples on Data Structures** |  **Reading:** Comprehensive Case |  | 
-| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 2: Estimation** | **Video 1: Estimation: Introduction** | Week 9.2: Practice Quiz – Estimation: Introduction | 
+| | Video 2: Point Estimation | Week 9.2: Practice Quiz – Point Estimation | 
+| | Video 3: Interval Estimation | Week 9.2: Practice Quiz – Interval Estimation | 
+| | Video 4: Interval Estimation : Proportion | Week 9.2: Practice Quiz – Interval Estimation : Proportion | 
+| | Video 5: Interval Estimation: Example 1 | Week 9.2: Practice Quiz – Interval Estimation: Example 1 | 
+| | Video 6: Interval Estimation: Example 2 | Week 9.2: Practice Quiz – Interval Estimation: Example 2 | 
+| | Video 7: Interval Estimation: Example 3 | Week 9.2: Practice Quiz – Interval Estimation: Example 3 | 
+| **Lesson 3: Summary and Assessment** |  **Reading:** Estimation | |
 |  W9: Discussion Prompt | | | | 
-| **Live Session** | **Nov 15, 2025 06:30 PM India** | |
+| **Live Session** | **Nov 15, 2025 07:40 PM India** | |
 
 <br><br>
 
-#### ✅ Week 10: Arrays
+#### ✅ Week 10: Testing of Hypothesis - 1
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Numpy Arrays** | **Video 1: Module Introduction** |  | 
-| | Video 2: Introduction to Numpy Arrays | Week 10.1: Practice Quiz – Introduction to Numpy Arrays | 
-| | Video 3: Numpy Arrays Vs List | Week 10.1: Practice Quiz – Numpy Arrays Vs List | 
-| | Video 4: Creating Numpy Arrays 1 | Week 10.1: Practice Quiz – Creating Numpy Arrays 1 | 
-| | Video 5: Attributes of Numpy Arrays | Week 10.1: Practice Quiz – Attributes of Numpy Arrays | 
-| | Video 6: Indexing in Numpy Arrays 1 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 1 | 
-| | Video 7: Indexing in Numpy Arrays 2 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 2 | 
-| **Lesson 2: Operations on Numpy Arrays** | **Video 1: Arithmetic Operations on Numpy Array 1** | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 1 | 
-| | Video 2: Arithmetic Operations on Numpy Array 2 | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 2 | 
-| | Video 3: Matrix Addition and Multiplication | Week 10.2: Practice Quiz – Matrix Addition and Multiplication | 
-| |  **Reading:** Numpy Arrays: Operations |  |  |
-| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.3: Practice Quiz – Sorting Numpy Arrays 1 |  
-| | Video 2: Sorting Numpy Arrays 2 | Week 10.3: Practice Quiz – Sorting Numpy Arrays 2 |
-| | Video 2: Statistical Operations | Week 10.3: Practice Quiz – Statistical Operations |
-| |  **Reading:** Sorting and Statistical Operations Using Numpy Arrays |  |  |
+| **Lesson 1: Testing of Hypothesis: Introduction** | **Video 1: Introduction to Testing of Hypothesis** | Week 10.1: Practice Quiz – Introduction to Testing of Hypothesis | 
+| | Video 2: Null and Alternate Hypothesis Formulation with Examples | Week 10.1: Practice Quiz – Null and Alternate Hypothesis Formulation with Examples | 
+| | Video 3: Type I and Type II Errors | Week 10.1: Practice Quiz – Type I and Type II Errors | 
+| | Video 4: Level of Significance | Week 10.1: Practice Quiz – Level of Significance | 
+| | Video 5: Hypothesis: Examples | Week 10.1: Practice Quiz – Hypothesis: Examples | 
+| |  **Reading:** Testing of Hypothesis: Introduction |  |  |
+| **Lesson 2: Testing of Hypothesis: Mean** | **Video 1: Testing of Hypothesis: One Mean—Large Sample** | Week 10.2: Practice Quiz – Testing of Hypothesis: One Mean—Large Sample | 
+| | Video 2: Testing of Hypothesis: One Mean—Small Sample | Week 10.2: Practice Quiz – Testing of Hypothesis: One Mean—Small Sample | 
+| | Video 3: Testing of Hypothesis: Two Means—Large Sample | Week 10.2: Practice Quiz – Testing of Hypothesis: Two Means—Large Sample | 
+| | Video 4: Testing of Hypothesis: Two Means—Small Sample | Week 10.2: Practice Quiz – Testing of Hypothesis: Two Means—Small Sample | 
+| |  **Reading:** Testing of Hypothesis: Mean |  |  |
+| **Lesson 3: Testing of Hypothesis: Examples** |  **Video 1: One Mean—Large Sample: Example 1** | Week 10.3: Practice Quiz – One Mean—Large Sample: Example 1 |  
+| | Video 2: One Mean—Small Sample: Example 2 | Week 10.3: Practice Quiz – One Mean—Small Sample: Example 2 |
+3| | Video 2: Two Means—Large Sample: Example 3 | Week 10.3: Practice Quiz – Two Means—Large Sample: Example 3 |
+| | Video 4: Two Means—Small Sample: Example 4 | Week 10.3: Practice Quiz – Two Means—Small Sample: Example 4 |
 | **Lesson 4: Summary and Assessment** |  | |
 |  W10: Discussion Prompt | | | | 
 | **Live Session** |  | |
 
 <br><br>
 
+#### ✅ Week 11: Testing of Hypothesis - 2
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Testing of Hypothesis - Proportion** | **Video 1: Testing of Hypothesis: Introduction** | Week 11.1: Practice Quiz – Testing of Hypothesis: Introduction | 
+| | Video 2: Testing of Hypothesis: One Proportion—Large Sample | Week 11.1: Practice Quiz – Testing of Hypothesis: One Proportion—Large Sample | 
+| | Video 3: Testing of Hypothesis: Example 1 | Week 11.1: Practice Quiz – Testing of Hypothesis: Example 1 | 
+| | Video 4: Testing of Hypothesis: Two proportions—Large Sample | Week 11.1: Practice Quiz – Testing of Hypothesis: Two proportions—Large Sample | 
+| | Video 5: Testing of Hypothesis: Example 2 | Week 11.1: Practice Quiz – Testing of Hypothesis: Example 2 | 
+| |  **Reading:** Testing of Hypothesis: Introduction |  |  |
+| **Lesson 2: Testing of Hypothesis: Several Proportions** | **Video 1: Testing of Hypothesis: Several Proportions** | Week 11.2: Practice Quiz – Testing of Hypothesis: Several Proportions | 
+| | Video 2: Chi-Square Test | Week 11.2: Practice Quiz – Testing of Hypothesis: Chi-Square Test | 
+| | Video 4: Testing of Hypothesis: Several Proportions—Example 1 | Week 11.2: Practice Quiz – Testing of Hypothesis: Several Proportions—Example 1 | 
+| | Video 5: Testing of Hypothesis: Several Proportions—Example 2 | Week 11.2: Practice Quiz – Testing of Hypothesis: Several Proportions—Example 2 | 
+| | Video 6: esting of Hypothesis: Several Proportions—Example 3 | Week 11.2: Practice Quiz – esting of Hypothesis: Several Proportions—Example 3 | 
+| |  **Reading:** Testing of Hypothesis: Several Proportions |  |  |
+| **Lesson 3: Testing of Hypothesis: All Models** |  **Video 1: Testing of Hypothesis: Example 4** | Week 11.3: Practice Quiz – Testing of Hypothesis: Example 4 |  
+| | Video 2: Testing of Hypothesis: Example 5 | Week 11.3: Practice Quiz – Testing of Hypothesis: Example 5 |
+| | Video 3: Testing of Hypothesis: Example 6 | Week 11.3: Practice Quiz – Testing of Hypothesis: Example 6 |
+|  W11: Discussion Prompt | | | | 
+| **Live Session** |  | |
+
+<br><br>
