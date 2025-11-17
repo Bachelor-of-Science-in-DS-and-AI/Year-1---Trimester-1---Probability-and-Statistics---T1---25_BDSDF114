@@ -19,9 +19,7 @@ After completing this course, you will be able to:
 - Apply the law of large numbers and the central limit theorem and demonstrate the concept of interval estimation and confidence intervals
 - Validate the hypothesis using a t-test, z-test, and chi-square test and set the least square fit of data to a model. </p>
 
-<br><br>
-
-
+<br>
 
 ### ✅ <b> Meet Your Instructors </b>
 
