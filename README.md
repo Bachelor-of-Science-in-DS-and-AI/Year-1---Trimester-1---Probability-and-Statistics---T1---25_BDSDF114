@@ -261,7 +261,7 @@ mathematical modeling, nonlinear optimization, and neural networks. All these ar
 | |  **Reading:** Testing of Hypothesis: Mean |  |  |
 | **Lesson 3: Testing of Hypothesis: Examples** |  **Video 1: One Mean—Large Sample: Example 1** | Week 10.3: Practice Quiz – One Mean—Large Sample: Example 1 |  
 | | Video 2: One Mean—Small Sample: Example 2 | Week 10.3: Practice Quiz – One Mean—Small Sample: Example 2 |
-3| | Video 2: Two Means—Large Sample: Example 3 | Week 10.3: Practice Quiz – Two Means—Large Sample: Example 3 |
+| | Video 3: Two Means—Large Sample: Example 3 | Week 10.3: Practice Quiz – Two Means—Large Sample: Example 3 |
 | | Video 4: Two Means—Small Sample: Example 4 | Week 10.3: Practice Quiz – Two Means—Small Sample: Example 4 |
 | **Lesson 4: Summary and Assessment** |  | |
 |  W10: Discussion Prompt | | | | 
