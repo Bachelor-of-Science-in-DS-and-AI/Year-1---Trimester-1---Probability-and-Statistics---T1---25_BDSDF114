@@ -222,7 +222,6 @@ After completing this course, you will be able to:
 | | Video 6: Sampling Distribution: t-Distribution | Week 9.1: Practice Quiz – Sampling Distribution: t-Distribution | 
 | | Video 7: Sampling Distribution: Chi-Square Distribution | Week 9.1: Practice Quiz – Sampling Distribution: Chi-Square Distribution | 
 | | **Reading:** Sampling|  |  |
-| **Week 9.1 Lab** | Questions & Solutions |  |  |
 | **Lesson 2: Estimation** | **Video 1: Estimation: Introduction** | Week 9.2: Practice Quiz – Estimation: Introduction | 
 | | Video 2: Point Estimation | Week 9.2: Practice Quiz – Point Estimation | 
 | | Video 3: Interval Estimation | Week 9.2: Practice Quiz – Interval Estimation | 
