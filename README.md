@@ -25,21 +25,11 @@ After completing this course, you will be able to:
 
 <b> Faculty Introduction 1 </b>
 
-<p align="justify"> Hello all. Myself, <b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
-division, Bits Pilani. I did my MSE Applied mathematics from Sri Venkateshra University of Tirupati and MSC statistics from Usmani
-University, Hyderabad. I did my PhD from Usmana University, Hyderabad in the area of mathematical modeling. I'm having 25+ years of teaching experience
-at various engineering colleges. I have been. Teaching at Bits Pani since 2012. </p>
-
+<p align="justify"> Hello everyone, I am <b>Dr. Y. V. K. Ravi Kumar</b>, currently working as an Associate Professor in the Work Integrated Learning Programs Division at BITS Pilani. I hold an MSE in Applied Mathematics from Sri Venkateshwara University, Tirupati, and an MSc in Statistics from Osmania University, Hyderabad. I completed my PhD at Osmania University in the area of Mathematical Modeling. <br><br> I have over 25 years of teaching experience across various engineering institutions, and I have been associated with BITS Pilani since 2012. </p>
 <b> Faculty Introduction 2 </b>
 
 
-<p align="justify"> Hi, this is <b> Venkatatna Koda </b>. Working as an associate professor in the department of mathematics. At Birla Institute of Technology and Science,
-Pilani at Hyderabad campus. I associated with Vianni from 2009. I contributed To the institute in various levels, that is in teaching. Research
-and institutional activities for the past 14 years. I received my master's degree in mathematics from Jharlal Nehru Technological University,
-Hyderabad, India, and. My Doctor of Philosophy, that is copyhD from the same institute. My research areas include mathematical modeling,
-nonlinear optimization, and neural networks. I published various research articles in international journals that are connected with the concepts call as
-mathematical modeling, nonlinear optimization, and neural networks. All these are connected with dynamical systems. Thank you. </p>
-
+<p align="justify"> Hello, I am <b>Dr. Venkatanatha Koda</b>, working as an Associate Professor in the Department of Mathematics at the Birla Institute of Technology and Science (BITS) Pilani, Hyderabad Campus. I have been associated with BITS Pilani since 2009 and have contributed to the Institute at various levels in teaching, research, and institutional activities for the past 14 years. <br><br> I received my Master’s degree in Mathematics from Jawaharlal Nehru Technological University (JNTU), Hyderabad, and completed my Doctor of Philosophy (PhD) from the same institute. My research interests include Mathematical Modeling, Nonlinear Optimization, and Neural Networks. I have published several research articles in international journals in these areas, particularly focusing on dynamical systems. <br><br> Thank you. </p>
 <br>
 
 ## <p align="center"><strong> Course Curriculum </strong></p>
