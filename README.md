@@ -23,7 +23,7 @@ After completing this course, you will be able to:
 
 
 
-### ✅ <b> Meet Your Instructor </b
+### ✅ <b> Meet Your Instructor </b>
 
 <b> Faculty Introduction 1 </b>
 
