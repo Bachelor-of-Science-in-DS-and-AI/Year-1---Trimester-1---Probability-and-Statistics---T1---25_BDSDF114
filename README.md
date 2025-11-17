@@ -47,51 +47,39 @@ mathematical modeling, nonlinear optimization, and neural networks. All these ar
 ## <p align="center"><strong> Course Curriculum </strong></p>
 
 
-#### ✅ Week 1: Getting Started with Programming
+#### ✅ Week 1: Introduction to Statistics
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Computing and Programming** | **Video 1: Computers and Computing** | Week 1.1: Practice Quiz – Computers and Computing | 
-| | Video 2: Programming on Computers | Week 1.1: Practice Quiz – Programming on Computers | 
-| | Video 3: Program Execution | Week 1.1: Practice Quiz – Program Execution | 
-| | **Reading:** Basics of Computer Hardware |  |  |
-| **Lesson 2: Setting up Python** | **Video 1: Python Installation in Windows** |  | 
-| | Video 2: Python Installation in Macintosh |  | 
-| | **Reading:** Python and VSCode on Ubuntu |  |  |
-| | Video 3: Python Notebooks on Google colab |  |
-| | **Reading:** Jupyter Notebooks |  |  |
-| **Lesson 3: Getting Started with Python** | **Video 1: Python Syntax** | Week 1.3: Practice Quiz – Python Syntax |
-| | Video 2: Writing Python Programs | Week 1.3: Practice Quiz – Writing Python Programs |
-| | Video 3: Syntax Errors | Week 1.3: Practice Quiz – Syntax Errors |
-| |  **Reading:** Getting Started with Python |  |  |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Descriptive Data Sets and Summarizing Data Sets** | **Video 1: Introduction to Statistics** | | 
+| | Video 2: Data Visualization Using Frequency Tables | Week 1.1: Practice Quiz – Data Visualization Using Frequency Tables | 
+| | Video 3: Histogram, Ogives, Stem, and Leaf Plots | Week 1.1: Practice Quiz – Histogram, Ogives, Stem, and Leaf Plots | 
+| | Video 4: Measures of Central Tendency | Week 1.1: Practice Quiz – Measures of Central Tendency |
+| **Lesson 2: Understanding the Data** | **Video 1: Measures of Variability** | Week 1.2: Practice Quiz – Measures of Variability | 
+| | Video 2: Chebyshev’s Inequality | Week 1.2: Practice Quiz – Chebyshev’s Inequality | 
+| | Video 3: Normal Data Set and Skewness of Data | Week 1.2: Practice Quiz – Normal Data Set and Skewness of Data | 
+| | Video 4: Two Quantitative Variables on Scatter Plot | Week 1.2: Practice Quiz – Two Quantitative Variables on Scatter Plot | 
 |  W1: Discussion Prompt | | | | 
-| **Live Session** | **Sep 20, 2025 06:30 PM India** | |
+| | **Reading:** Understanding the Data |  |  |
+| **Lab** | Lesson 1 (Videos 2 & 3) | |
+|  | Scatter Plots | |
+| **Live Session** | **Sep 20, 2025 07:30 PM India** | |
+
 
 <br><br>
 
-#### ✅ Week 2: Flowcharts and Data on Computers
+#### ✅ Week 2: Applications of Statistics
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Computing and Programming** | **Video 1: Problem-Solving Using Flow-Charts** | Week 2.1: Practice Quiz – Problem-Solving Using Flow-Charts | 
-| | Video 2: Flowcharts Example 1 | Week 2.1: Practice Quiz – Flowcharts Example 1  | 
-| | Video 3: Flowcharts Example 2 | Week 2.1: Practice Quiz – Flowcharts Example 2 | 
-| | **Reading:** Introduction to Flowcharts |  |  |
-| Week 2: Practice Questions | | | |
-| **Lesson 2: Data on Computers** | **Video 1: Data on Computers** | Week 2.2: Practice Quiz – Data on Computers | 
-| | Video 2: Binary Numbers | Week 2.2: Practice Quiz – Binary Numbers | 
-| | Video 3: Decimal to Binary | Week 2.2: Practice Quiz – Decimal to Binary |
-| | Video 4: Binary to Decimal | Week 2.2: Practice Quiz – Binary to Decimal |
-| | Video 5: Negative Binary | Week 2.2: Practice Quiz – Negative Binary |
-| | Video 5: Two's Complement: Examples | Week 2.2: Practice Quiz – Two's Complement: Examples |
-| | Video 6: Storing Real Numbers | Week 2.2: Practice Quiz – Storing Real Numbers |
-| | Video 7: Storing Characters and Strings | Week 2.2: Practice Quiz – Storing Characters and Strings |
-| |  **Reading:** Binary Numbering System |  |  |
-| Week 2: Practice Questions | | | |
-| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
+| **Lesson 1: Statistical Summary** | **Video 1: Quartile Deviation and IQR** | Week 2.1: Practice Quiz – Quartile Deviation and IQR | 
+| | Video 2: Five point summary | Week 2.1: Practice Quiz – Five point summary  | 
+| | Video 3: Box plot | Week 2.1: Practice Quiz – Box plot| 
+| | Video 3: Outlier detection | Week 2.1: Practice Quiz – Outlier detection| 
+| | Video 3: Statistical Summary | Week 2.1: Practice Quiz – Statistical Summary| 
+| **Lab** | P&S: Module 1 | | | 
 |  W2: Discussion Prompt | | | | 
-| **Live Session** | **Sep 27, 2025 06:30 PM India** | |
+| **Live Session** | **Sep 27, 2025 07:40 PM India** | |
 
 <br><br>
 
