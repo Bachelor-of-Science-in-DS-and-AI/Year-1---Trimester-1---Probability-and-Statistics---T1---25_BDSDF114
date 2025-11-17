@@ -19,18 +19,20 @@ After completing this course, you will be able to:
 - Apply the law of large numbers and the central limit theorem and demonstrate the concept of interval estimation and confidence intervals
 - Validate the hypothesis using a t-test, z-test, and chi-square test and set the least square fit of data to a model. </p>
 
-<br>
+<br><br>
 
 
 
-✅ <b> Faculty Introduction 1 </b>
+### ✅ <b> Meet Your Instructor </b
+
+<b> Faculty Introduction 1 </b>
 
 <p align="justify"> Hello all. Myself, <b> Doctor YVK Ravi Kumar </b> , working as associate professor Work integrated Learning Programs
 division, Bits Pilani. I did my MSE Applied mathematics from Sri Venkateshra University of Tirupati and MSC statistics from Usmani
 University, Hyderabad. I did my PhD from Usmana University, Hyderabad in the area of mathematical modeling. I'm having 25+ years of teaching experience
 at various engineering colleges. I have been. Teaching at Bits Pani since 2012. </p>
 
-✅ <b> Faculty Introduction 2 </b>
+<b> Faculty Introduction 2 </b>
 
 
 <p align="justify"> Hi, this is <b> Venkatatna Koda </b>. Working as an associate professor in the department of mathematics. At Birla Institute of Technology and Science,
