@@ -39,6 +39,18 @@ After completing this course, you will be able to:
 
 #### ✅ Week 1: Introduction to Statistics
 
+- <b> Module Description </b>
+ - <p align = "justify"> In this module, you will be introduced to statistics and descriptive statistics. You will learn about various visualizations to understand the data. You will understand various measures of central tendency and measures of variability to analyze the given data for more insights. </p>
+
+- <b> Learning Objectives </b>
+  - By the end of this module, you will be able to:
+    - Describe data sets, frequency tables, and graphs.
+    - Represent data on two quantitative variables on scatter plot and describe how the variables are related.
+    - Summarize data sets by some suitably chosen measures, such as sample mean, median, variance, and standard deviation.
+    - Provide an upper bound to data values that exceed the sample mean using Chebyshev’s inequality.
+    - Get best practices for constructing histograms, particularly normal histograms.
+    - Represent data on two quantitative variables on a scatter plot and describe how the variables are related.
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Descriptive Data Sets and Summarizing Data Sets** | **Video 1: Introduction to Statistics** | | 
