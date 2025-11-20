@@ -238,8 +238,8 @@ After completing this course, you will be able to:
 #### ✅ Week 10: Testing of Hypothesis - 1
 
   -  <b> Module Description </b>
-    
-    - <p align = "justify"> In this module, you will learn how to identify a hypothesis and its validation using various techniques. The module discusses how sampling can be used as a part of hypothesis validation. You will also learn about the formation of a suitable hypothesis and its validation by using statistical techniques. Furthermore, you will be introduced to type 1 and type II errors to understand the level of significance and the power of the test. </p>
+    <p align = "justify">
+    - In this module, you will learn how to identify a hypothesis and its validation using various techniques. The module discusses how sampling can be used as a part of hypothesis validation. You will also learn about the formation of a suitable hypothesis and its validation by using statistical techniques. Furthermore, you will be introduced to type 1 and type II errors to understand the level of significance and the power of the test. </p>
 
   - <b> Level Learning Objectives </b>
     - After completing this module, you will be able to:
