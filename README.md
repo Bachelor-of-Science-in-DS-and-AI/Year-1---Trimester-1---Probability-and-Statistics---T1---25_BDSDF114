@@ -40,8 +40,7 @@ After completing this course, you will be able to:
 #### ✅ Week 1: Introduction to Statistics
 
 - <b> Module Description </b>
-  <p align = "justify"> 
-  In this module, you will be introduced to statistics and descriptive statistics. You will learn about various visualizations to understand the data. You will understand various measures of central tendency and measures of variability to analyze the given data for more insights. </p>
+  <p align = "justify"> In this module, you will be introduced to statistics and descriptive statistics. You will learn about various visualizations to understand the data. You will understand various measures of central tendency and measures of variability to analyze the given data for more insights. </p>
 
 - <b> Learning Objectives </b>
   - By the end of this module, you will be able to:
