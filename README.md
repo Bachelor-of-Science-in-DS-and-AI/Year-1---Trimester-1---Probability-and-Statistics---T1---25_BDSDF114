@@ -84,7 +84,9 @@ After completing this course, you will be able to:
     - Understand quartiles
     - Quartile deviation
     - Representing the data as a boxplot
-    - Outlier and outlier identification 
+    - Outlier and outlier identification
+   
+  <br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
