@@ -74,6 +74,18 @@ After completing this course, you will be able to:
 
 #### ✅ Week 2: Applications of Statistics
 
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will learn how to understand the data distributed statistically and also with the helps of box plot.You will understand outlier and how to identify with help of quartiles and also with the help of boxplot. </p>
+
+- <b> Learning Objectives </b>
+  - By the end of this module, you will be able to:
+    
+    - Understand quartiles
+    - Quartile deviation
+    - Representing the data as a boxplot
+    - Outlier and outlier identification 
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Statistical Summary** | **Video 1: Quartile Deviation and IQR** | Week 2.1: Practice Quiz – Quartile Deviation and IQR | 
