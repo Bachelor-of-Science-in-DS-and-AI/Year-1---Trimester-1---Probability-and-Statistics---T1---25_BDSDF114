@@ -172,6 +172,20 @@ After completing this course, you will be able to:
 
 #### ✅ Week 5: Random Variables
 
+- <b> Module Description </b>
+
+  <p align = "justify" > In this module, you will learn how to generalize the events and their outcomes by a variable, that is, a random variable. You will explore types of random variables. You will gain an understanding of a mathematical expectation. You will further learn about the procedure to find the mean and variance using mathematical expectation. This module also covers the probability distribution function. </p>
+
+- <b> Learning Objectives </b>
+
+  - By the end of this module, you will be able to:
+    
+    - Explain the discrete and continuous random variables and their representation.
+    - Evaluate the mathematical expectation of random variables.
+    - Find the mean and variance of a random variable with the help of mathematical expectation.
+   
+    <br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Random Variables** | **Video 1: Random Variable: Definition** |  | 
