@@ -328,6 +328,7 @@ After completing this course, you will be able to:
 - <b> Level Learning Objectives </b>
 
   - By the end of this module, you will be able to:
+    
     - Describe sampling and estimation
     - Apply sampling effectively
  
