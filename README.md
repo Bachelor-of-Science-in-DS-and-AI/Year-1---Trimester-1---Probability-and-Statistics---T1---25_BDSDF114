@@ -107,6 +107,7 @@ After completing this course, you will be able to:
 
 - <b> Level Learning Objectives </b>
    - After completing this module, you will be able to:
+     
       - Define a possible outcome of an experiment through sample space and its subset as an event.
       - Represent the characteristics of the outcomes, such as unions, intersections, or complements.
       - Illustrate events as a graphical representation and the algebra of such events as Venn diagrams.
