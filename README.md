@@ -140,10 +140,11 @@ After completing this course, you will be able to:
 
 - <b> Learning Objectives </b>
   - After completing this module, you will be able to:
-    - Understand conditional probability.
-    - Applications of conditional probability
-    - Illustrate the use of total probability.
-    - Understand Bayes theorem
+    
+      - Understand conditional probability.
+      - Applications of conditional probability
+      - Illustrate the use of total probability.
+      - Understand Bayes theorem
    
     <br>
 
