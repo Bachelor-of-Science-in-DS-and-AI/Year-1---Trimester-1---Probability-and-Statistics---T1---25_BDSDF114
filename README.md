@@ -219,7 +219,7 @@ After completing this course, you will be able to:
 - <b> Level Learning Objectives </b>
 
  - By the end of this module, you will be able to:
-   
+
    - Validate a given function or distribution as a probability distribution function.
    - Identify the distribution that a given function or distribution follows.
    - Find the properties of a given function or distribution.
@@ -328,9 +328,8 @@ After completing this course, you will be able to:
 - <b> Level Learning Objectives </b>
 
   - By the end of this module, you will be able to:
-    
-   - Describe sampling and estimation
-   - Apply sampling effectively
+    - Describe sampling and estimation
+    - Apply sampling effectively
  
   <br>
 
