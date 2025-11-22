@@ -135,6 +135,19 @@ After completing this course, you will be able to:
 
 #### ✅ Week 4: Bayes Theorem and Applications
 
+- <b> Module Description </b>
+
+    <p align = "justify"> In this module, you will be introduced to the concept of conditional probability which is the basic idea behind market basket analysis. And also yet another important concept of Machine learning i.e.Bayes theorem. </p>
+
+- <b> Learning Objectives </b>
+  - After completing this module, you will be able to:
+    - Understand conditional probability.
+    - Applications of conditional probability
+    - Illustrate the use of total probability.
+    - Understand Bayes theorem
+   
+    <br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Bayes Theorem** | **Video 1: Conditional Probability** | Week 4.1: Practice Quiz – Conditional Probability | 
