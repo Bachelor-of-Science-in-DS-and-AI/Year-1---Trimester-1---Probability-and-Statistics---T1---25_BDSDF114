@@ -218,7 +218,7 @@ After completing this course, you will be able to:
 
 - <b> Level Learning Objectives </b>
 
- - By the end of this module, you will be able to:
+  - By the end of this module, you will be able to:
 
    - Validate a given function or distribution as a probability distribution function.
    - Identify the distribution that a given function or distribution follows.
@@ -363,7 +363,9 @@ After completing this course, you will be able to:
     In this module, you will learn how to identify a hypothesis and its validation using various techniques. The module discusses how sampling can be used as a part of hypothesis validation. You will also learn about the formation of a suitable hypothesis and its validation by using statistical techniques. Furthermore, you will be introduced to type 1 and type II errors to understand the level of significance and the power of the test. </p>
 
   - <b> Level Learning Objectives </b>
+  
     - After completing this module, you will be able to:
+      
       - Create a suitable null and alternate hypothesis related to mean.
       - Select a proper test to validate the hypothesis related to mean.
       - Explain the types of errors that occur during hypothesis validation.
