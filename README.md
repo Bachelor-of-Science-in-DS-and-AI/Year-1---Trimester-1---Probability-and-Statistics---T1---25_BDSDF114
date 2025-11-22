@@ -212,6 +212,20 @@ After completing this course, you will be able to:
 
 #### ✅ Week 6: Discrete Probability Distributions
 
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will learn about various discrete probability distributions. You will be able to understand Binomial and probability distributions with their corresponding probability distribution functions. You will also learn about the mean and variance of Binomial and Poisson distributions. </p>
+
+- <b> Level Learning Objectives </b>
+
+ - By the end of this module, you will be able to:
+   
+   - Validate a given function or distribution as a probability distribution function.
+   - Identify the distribution that a given function or distribution follows.
+   - Find the properties of a given function or distribution.
+
+  <br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Binomial Distribution** | **Video 1: Binomial distribution** |Week 6.1: Practice Quiz – Binomial distribution | 
@@ -237,6 +251,20 @@ After completing this course, you will be able to:
 
 #### ✅ Week 7: Continuous Probability Distributions
 
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will learn continuous probability distributions in general and normal/Gaussian distribution in particular. You will gain an understanding of the mean and variance of normal distribution. You will also explore the standard normal distribution with the help of normal distribution tables. Furthermore, you will be introduced to other continuous distributions like uniform distribution and Gamma distribution. </p>
+
+- <b> Level Learning Objectives </b>
+
+  - By the end of this module, you will be able to:
+    
+    - Explain normal and standard normal distributions with their properties.
+    - Use normal distribution tables to find probabilities.
+    - Define uniform distribution and exponential distribution.
+   
+    <br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Normal Distribution** | **Video 1: Probability Density Function** | Week 7.1: Practice Quiz – Probability Density Function  | 
@@ -261,6 +289,18 @@ After completing this course, you will be able to:
 
 #### ✅ Week 8: Joint Probability Distributions
 
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will learn probability distribution and probability density when two random variables are considered. </p>
+
+- <b> Level Learning Objectives </b>
+
+  - By the end of this module, you will be able to:
+    
+    - Joint Probability distribution function,Joint density function and correspong marginal functions
+   
+  <br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Joint Probability Distributions(Discrete)** | **Video 1: Joint probability distribution function** | Week 8.1: Practice Quiz – Joint probability distribution function  | 
@@ -280,6 +320,19 @@ After completing this course, you will be able to:
 <br><br>
 
 #### ✅ Week 9: Sampling and Estimation
+
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will learn the importance of sampling and various sampling techniques. You will be introduced to sampling distribution, which plays an important role in understanding data. You will learn about the central limit theorem that will help you understand the use of normal distribution in many situations. Then, you will be introduced to the next step in sampling, that is, estimation. You will also gain an understanding of the t- and chi-square distribution. </p>
+
+- <b> Level Learning Objectives </b>
+
+  - By the end of this module, you will be able to:
+    
+   - Describe sampling and estimation
+   - Apply sampling effectively
+ 
+  <br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -306,8 +359,8 @@ After completing this course, you will be able to:
 
 #### ✅ Week 10: Testing of Hypothesis - 1
 
-  -  <b> Module Description </b>
-    <p align = "justify">
+-  <b> Module Description </b>
+   <p align = "justify">
     In this module, you will learn how to identify a hypothesis and its validation using various techniques. The module discusses how sampling can be used as a part of hypothesis validation. You will also learn about the formation of a suitable hypothesis and its validation by using statistical techniques. Furthermore, you will be introduced to type 1 and type II errors to understand the level of significance and the power of the test. </p>
 
   - <b> Level Learning Objectives </b>
@@ -342,6 +395,20 @@ After completing this course, you will be able to:
 <br><br>
 
 #### ✅ Week 11: Testing of Hypothesis - 2
+
+- <b> Module Description </b>
+
+  <p align = "justify"> In this module, you will continue learning the concept of hypothesis by considering the proportion as a statistic. The module discusses how one proportion with large sample and small sample cases are considered in this testing of hypothesis. You will further explore hypothesis validation involving several proportions using the chi-square test. </p>
+
+- <b> Level Learning Objectives </b>
+
+  - After completing this module, you will be able to:
+
+    - Create a suitable null and alternate hypothesis related to proportion.
+    - Select a proper test to validate the hypothesis related to proportion.
+    - Perform the chi-square test.
+   
+    <br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
