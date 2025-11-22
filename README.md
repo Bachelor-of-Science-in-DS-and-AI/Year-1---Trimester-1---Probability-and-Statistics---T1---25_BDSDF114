@@ -136,7 +136,7 @@ After completing this course, you will be able to:
 
 - <b> Module Description </b>
 
-    <p align = "justify"> In this module, you will be introduced to the concept of conditional probability which is the basic idea behind market basket analysis. And also yet another important concept of Machine learning i.e.Bayes theorem. </p>
+    <p align = "justify"> In this module, you will be introduced to the concept of conditional probability which is the basic idea behind market basket analysis. And also yet another important concept of Machine Learning i.e.Bayes Theorem. </p>
 
 - <b> Learning Objectives </b>
   - After completing this module, you will be able to:
