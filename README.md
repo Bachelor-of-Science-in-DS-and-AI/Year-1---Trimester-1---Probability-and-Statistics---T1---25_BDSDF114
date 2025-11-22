@@ -103,6 +103,17 @@ After completing this course, you will be able to:
 
 #### ✅ Week 3: Elements of Probability
 
+- <b> Module Description </b>
+
+<p align = "justify"> In this module, you will be introduced to the basics of set theory and probability. You will learn about the axioms of probability and conditional probability. You will understand the difference between dependent and independent events. You will also explore one of the important concepts in data science (machine learning), i.e., Bayes’ formula. </p>
+
+- <b> Level Learning Objectives </b>
+    - After completing this module, you will be able to:
+      - Define a possible outcome of an experiment through sample space and its subset as an event.
+      - Represent the characteristics of the outcomes, such as unions, intersections, or complements.
+      - Illustrate events as a graphical representation and the algebra of such events as Venn diagrams.
+      - Give a mathematical viewpoint for axioms of probability and a general principle of counting.
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Introduction to Probability** | **Video 1: Basics of Probability** | Week 3.1: Practice Quiz – Basics of Probability  | 
